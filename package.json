@@ -1,8 +1,8 @@
 {
-  "name": "mmm-teath-timer",
+  "name": "mmm-Teeth-Timer",
   "version": "1.0.0",
   "description": "[A timer to brush your teeth for 3 minutes]",
-  "main": "MMM-Template.js",
+  "main": "MMM-Teeth-Timer.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
@@ -13,7 +13,7 @@
     "url": "git+[https://github.com/KKayss/MMM-Teeth-Timer].git"
   },
   "keywords": [
-    "template"
+    "Teeth, timer"
   ],
   "author": "[Thibault Martin]",
   "license": "MIT",
