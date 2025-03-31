@@ -8,7 +8,7 @@ Module.register("MMM-Teeth-Timer", {
    * Apply the default styles.
    */
   getStyles() {
-    return ["template.css"]
+    return ["teeth-timer.css"]
   },
 
   /**
