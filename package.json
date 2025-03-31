@@ -1,5 +1,5 @@
 {
-  "name": "mmm-template",
+  "name": "mmm-teath-timer",
   "version": "1.0.0",
   "description": "[Module description]",
   "main": "MMM-Template.js",
@@ -15,7 +15,7 @@
   "keywords": [
     "template"
   ],
-  "author": "[Author]",
+  "author": "[Thibault Martin]",
   "license": "MIT",
   "bugs": {
     "url": "[GitHub url]/issues"
